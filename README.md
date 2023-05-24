@@ -1,5 +1,4 @@
-# web-335
-Introduction to NoSQL to WEB335 Web Development
-Contributors
-Richard Krasso
-Patrick Cuauro
+# WEB 335 Introduction to NoSQL
+## Contributors
+* Richard Krasso
+* Patrick Cuauro
