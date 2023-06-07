@@ -1,0 +1,55 @@
+[{
+    "_id":1000,
+    "firstName":"Patrick",
+    "lastName":"Cuauro",
+    "dateOfBirth":"11/18/1980",
+    "username":"patrickcuauro",
+    "invoices":[
+        {
+            "_id":1100,
+            "createDate":"06/01/2023",
+            "shipDate":"06/02/2023",
+            "subtotal":1229.98,
+            "lineItem":[
+                {
+                    "_id":2000,
+                    "productName":"Google Pixel 7",
+                    "price":699.99,
+                    "qty":1
+                },
+                {
+                    "_id":2100,
+                    "productName":"FitBit Versa 3",
+                    "price":230.00,
+                    "qty":2
+                },
+                {
+                    "_id":2200,
+                    "productName":"Nintendo Switch",
+                    "price":299.99,
+                    "qty":3
+                }
+            ]
+        },
+        {
+        "_id":3100,
+            "createDate":"06/04/2023",
+            "shipDate":"06/05/2023",
+            "subtotal":299.99,
+            "lineItem":[
+                {
+                    "_id":5400,
+                    "productName":"The Legend of Zelda: Tears of the Kingdom",
+                    "price":69.99,
+                    "qty":1
+                },
+                {
+                    "_id":7300,
+                    "productName":"MicroSD 64Gb",
+                    "price":230.00,
+                    "qty":1
+                }
+            ]
+        }
+    ]
+}]

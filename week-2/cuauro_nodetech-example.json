@@ -1,0 +1,44 @@
+[{
+    "studentId":1000,
+    "firstName":"Patrick",
+    "lastName":"Cuauro",
+    "enrollment":[
+        {
+            "term":1100,
+            "gpa":3.8,
+            "startDate":"06/05/2023",
+            "endDate":"06/26/2023",
+            "course":[
+                {
+                    "courseId":2000,
+                    "description":"Business JavaScript II",
+                    "instructor":"Richard Krasso",
+                    "score":3.8,
+                    "letterGrade":"A"
+                },
+                {
+                    "courseId":2100,
+                    "description":"Introduction to NoSQL",
+                    "instructor":"Richard Krasso",
+                    "score":3.8,
+                    "letterGrade":"A"
+                }
+            ]
+        },
+        {
+            "term":3100,
+            "gpa":3.9,
+            "startDate":"07/02/2023",
+            "endDate":"07/23/2023",
+            "course":[
+                {
+                    "courseId":5400,
+                    "description":"Web API design",
+                    "instructor":"Richard Krasso",
+                    "score":3.9,
+                    "letterGrade":"A"
+                }
+            ]
+        }
+    ]
+}]
