@@ -1,0 +1,50 @@
+[{
+    "_id":1000,
+    "publisherName":"O'Reilly",
+    "publisherCode":324453,
+    "publisherAddress":"242 bookworm st QuietTown FL 33868",
+    "book":[
+        {
+            "_id":10000,
+            "bookIsbn":6876454368,
+            "bookName": "JavaScript, The Definitive Guide",
+            "price":60.00,
+            "author":[
+                {
+                    "_id":1000,
+                    "authorFirstName":"David",
+                    "authorLastName":"Flanagan",
+                    "authorPhone":"555-4326677"
+                }
+            ]
+        }
+    ]
+},
+{
+    "_id":2000,
+    "publisherName":"Pearson",
+    "publisherCode":327753,
+    "publisherAddress":"452 readPlace st LearnPlace FL 33868",
+    "book":[
+        {
+            "_id":60000,
+            "bookIsbn":6234454368,
+            "bookName": "NoSQL Distilled",
+            "price":27.79,
+            "author":[
+                {
+                    "_id":1000,
+                    "authorFirstName":"Pramod",
+                    "authorLastName":"Sadalage",
+                    "authorPhone":"555-5556677"
+                },
+                {
+                    "_id":2000,
+                    "authorFirstName":"Martin",
+                    "authorLastName":"Fowler",
+                    "authorPhone":"555-1113377"
+                }
+            ]
+        }
+    ]   
+}]
