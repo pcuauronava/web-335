@@ -1,0 +1,21 @@
+[
+    {
+        "bookId":1100,
+        "title":"The Lord Of The Rings: The Return Of The King",
+        "genre":"fantasy",
+        "author":"J.R.R. Tolkien"
+    },
+    {
+        "bookId":2100,
+        "title":"Dune: Deluxe Edition",
+        "genre":"fantasy",
+        "author":"Frank Herbert"
+    },
+    {
+        "bookId":2100,
+        "title":"The Catcher and the Rye",
+        "genre":"fantasy",
+        "author":"J.D. Salinger"
+    }
+
+]

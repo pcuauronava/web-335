@@ -1,0 +1,19 @@
+[{
+    "customerId":1000,
+    "firstName":"Patrick",
+    "lastName":"Cuauro",
+    "username":"patrickcuauro",
+    "books":[
+        {
+            "bookId":1100,
+            "title":"The Lord Of The Rings: The Return Of The King",
+            "genre":"fantasy",
+            "author":"J.R.R. Tolkien"
+        }],
+    "wishlists":[
+        {
+            "bookId":1100,
+            "title":"The Lord Of The Rings: The Return Of The King"
+        }
+    ]
+}]
